@@ -39,6 +39,9 @@ uvicorn==0.25.0
 # Environment Management
 python-dotenv==1.0.0
 
+# CLI Enhancement
+colorama==0.4.6  # For colored terminal output
+
 # Development & Testing
 jupyter==1.0.0
 pytest==7.4.4
